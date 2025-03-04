@@ -1,7 +1,28 @@
 h1{
     background-color: antiquewhite;
-    border-width:5px ;
+    /* border-width:5px ;
     border-color: black;
-    border-style: solid;
+    border-style: solid; */
+    /* short hand */
+    padding-bottom: 40px;
+    padding-top: 40px;
+    border: 5px green solid;
     text-align: center;
+    text-decoration:line-through dashed;
+    text-decoration: overline solid;
+    text-shadow: 40px 40px 20px black,50px 50px 20px yellow, 60px 60px 20px red ;
+}
+
+p{
+    border: 5px green solid;
+    width:300px;
+    font-size:24px ;
+    font-weight: 100;
+    font-style:normal;
+    /* font-family:serif; end point */
+    /* sans-serif = > no end point */
+    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
 }
