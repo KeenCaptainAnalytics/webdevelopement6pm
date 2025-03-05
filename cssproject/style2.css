@@ -1,0 +1,29 @@
+div{
+    display: inline-block;
+    width:300px;
+    border:10px rgb(114, 86, 255) solid;
+}
+p{
+   
+    border:10px rgb(57, 255, 35) solid;
+}
+/* body{
+    border:10px black solid;
+}
+div{
+
+    width:500px;
+    border:10px rgb(114, 86, 255) solid;
+}
+
+h1{
+    display: inline;
+
+    border:10px rgb(246, 16, 16) solid;
+}
+
+span{
+    display: block;
+    width:300px;
+    border:10px rgb(85, 246, 16) solid;
+} */
