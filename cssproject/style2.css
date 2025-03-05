@@ -1,12 +1,43 @@
-div{
-    display: inline-block;
+/* postion */
+
+#d1{
+    position: static;
+    left:200px;
+    /* position:relative; */
+    /* top:100px; */
+    /* left:300px;  */
+    width: 200px;
+    background-color: blue;
+}
+#d2{
+    position:static;
+    /* top:100px; */
+    width: 200px;
+    background-color: rgb(0, 255, 81);
+}
+#d3{
+    position:sticky;
+    top:0px;
+    width: 200px;
+    background-color: rgb(255, 0, 153);
+}
+#d4{
+    position:static;
+    width: 200px;
+    background-color: rgb(237, 255, 42);
+}
+
+
+/* display */
+/* div{
+    display: none;
     width:300px;
     border:10px rgb(114, 86, 255) solid;
 }
 p{
    
     border:10px rgb(57, 255, 35) solid;
-}
+} */
 /* body{
     border:10px black solid;
 }
