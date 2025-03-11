@@ -1,0 +1,24 @@
+.container{
+    border:1px solid black;
+    margin:100px;
+    padding:100px;
+}
+h1{
+    border:1px solid #0000ff;
+    /* margin:0px; top right bottom left clockwise */
+    /* margin:10px 20px 30px 40px; */
+    /* margin:100px; */
+    /* margin: 10px 50px;  */
+    /* top-bottom   left-right */
+    /* margin-left: 100px;
+    margin-bottom: 0px;; */
+    /* padding:10px;*/
+    /* padding: 10px 20px 30px 40px; */
+    padding:20px 50px;
+    text-align: justify;
+    
+}
+h2{
+    border:1px solid red;
+    margin:0px;
+}
