@@ -1,9 +1,59 @@
+body{
+    margin:0px;
+    background-color: rgb(228, 253, 254);
+}
+
 .container{
-    border:1px solid black;
-    margin:100px;
-    padding:100px;
+    /* border:1px solid black; */
+    margin:20px;
+    border-radius: 30px;
+    background-color:white ;
+    
 }
 h1{
+    display: inline-block;
+    margin-left: 10%;
+    border: 1px solid black;
+    font-size: 20px;
+    color:rgb(29, 29, 29);
+}
+h2{
+    display: inline-block;
+    margin-left: 20%;
+    border: 1px solid black;
+    font-size: 30px;
+    color:rgb(44, 44, 44);
+}
+.inner_container{
+    display: inline-block;
+}
+h4{
+    margin:0px;
+    font-size: 10px;
+    color:rgb(129, 128, 128);
+}
+p{
+    margin:0px;
+    font-size: 12px;
+    color:rgb(161, 160, 160);
+}
+.button_container{
+    margin-left:10%;
+    /* border:1px solid rgb(125, 125, 125); */
+    border-radius: 20px;
+    background-color: rgb(213, 212, 212);
+}
+button{
+    border:none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: rgb(213, 212, 212);
+}
+.active{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 10px gray;;
+}
+/* h1{
     border:1px solid #0000ff;
     /* margin:0px; top right bottom left clockwise */
     /* margin:10px 20px 30px 40px; */
@@ -14,11 +64,11 @@ h1{
     margin-bottom: 0px;; */
     /* padding:10px;*/
     /* padding: 10px 20px 30px 40px; */
-    padding:20px 50px;
+    /* padding:20px 50px;
     text-align: justify;
     
 }
 h2{
     border:1px solid red;
-    margin:0px;
-}
+    margin:0px; */
+/* } */ 
