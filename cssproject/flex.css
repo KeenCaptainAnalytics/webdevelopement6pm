@@ -4,7 +4,8 @@
     height:400px;
     /* justify-content: space-evenly; */
     /* justify-content: flex-end; */
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    gap:20px;
     align-items:center;
     /* flex-wrap: no-wrap; */
 
@@ -23,11 +24,14 @@
     background-color: rgb(255, 28, 65);
 }
 .div2{
+    margin-left: 160px;
     background-color:orange;
 }
 .div3{
+    align-self: flex-start;
     background-color:rgb(6, 211, 6);
 }
 .div4{
+    align-self: flex-end;
     background-color:rgb(49, 197, 242);
 }
