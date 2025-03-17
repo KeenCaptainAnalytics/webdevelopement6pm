@@ -1,0 +1,15 @@
+.parent{
+    background-color: blue;
+    display: flex;
+    
+}
+
+.column1{
+    background-color: black;
+    color: white;
+    width:60%;
+}
+.column2{
+    background-color: pink;
+    width:40%;
+}
