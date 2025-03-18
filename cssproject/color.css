@@ -1,0 +1,38 @@
+.text {
+    width:180px;
+    margin-left: 10px;
+    color:white;
+    background-color: black;
+    width:200px;
+    height:200px;
+}
+.inner_container{
+    /* background-color: rgb(255, 117, 250) ; */
+    /* 0,1 ,2,3,4,5,6,7,8,9,a,b,c,d,e,f */
+    /* background-color: #fa6779; */
+    /* background-color: hwb(232 60% 0% ); */
+    /* opacity: 0.5; */
+    background-color: hwb(45 59% 50%);
+    /* background-color: rgba(255, 0, 0, 0.5) ; */
+    height:200px;
+    /* opacity: 0.7; */
+    
+}
+.container{
+    /* border:1px solid black; */
+    height:200px;
+    width:200px;
+    border: pink 15px groove;
+    position: absolute;
+    top:0px;
+    left:0px;
+    /* border-color: black;
+    border-width: 15px;
+    border-style: solid;
+    border-style: dashed;
+    border-style:dotted;
+    border-style: double;
+    border-style: groove;
+    border-style: ridge;
+    border-style: hidden; */
+}
